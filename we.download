@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+	<meta charset="UTF-8">
+	<title>Dennyho doupě</title>
+	<style>
+		body {
+			background: #f7f7f7;
+			font-family: 'Segoe UI', Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+		}
+		header {
+			background: #222;
+			color: #fff;
+			padding: 30px 0 20px 0;
+			text-align: center;
+		}
+		nav {
+			background: #007acc;
+			padding: 10px 0;
+			text-align: center;
+		}
+		nav a {
+			color: #fff;
+			text-decoration: none;
+			margin: 0 20px;
+			font-weight: bold;
+			font-size: 1.1em;
+		}
+		nav a:hover {
+			text-decoration: underline;
+		}
+		.container {
+			max-width: 700px;
+			margin: 40px auto;
+			background: #fff;
+			border-radius: 10px;
+			box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+			padding: 30px;
+			text-align: left;
+		}
+		h1 {
+			color: #007acc;
+			margin-top: 0;
+		}
+		.footer {
+			text-align: center;
+			color: #888;
+			margin: 40px 0 10px 0;
+			font-size: 0.95em;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>Dennyho doupě</h1>
+	</header>
+	<nav>
+		<a href="index.html">Domů</a>
+		<a href="pravidla.html">Pravidla</a>
+		<a href="web.html">Dennyho doupě</a>
+	</nav>
+	<div class="container">
+		<h2>Vítej v Dennyho doupěti!</h2>
+		<p>Tato stránka je věnovaná Dennyho projektům, nápadům a komunitě. Najdeš zde informace o aktuálních aktivitách, plánech a zajímavostech.</p>
+		<ul>
+			<li>Novinky a oznámení</li>
+			<li>Plánované akce</li>
+			<li>Galerie staveb</li>
+			<li>Kontakt na Dennyho</li>
+		</ul>
+		<p>Pokud máš nápad na vylepšení nebo se chceš zapojit, napiš Dennyho na Discordu!</p>
+	</div>
+	<div class="footer">
+		&copy; 2025 Dennyho doupě &ndash; součást Minecraft Discord komunity
+	</div>
+</body>
+</html>
