@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+	<meta charset="UTF-8">
+	<title>Můj Minecraft Discord server</title>
+	<style>
+		body {
+			background: #e9ecef;
+			font-family: 'Segoe UI', Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+		}
+		header {
+			background: #222;
+			color: #fff;
+			padding: 30px 0 20px 0;
+			text-align: center;
+		}
+		nav {
+			background: #007acc;
+			padding: 10px 0;
+			text-align: center;
+		}
+		nav a {
+			color: #fff;
+			text-decoration: none;
+			margin: 0 20px;
+			font-weight: bold;
+			font-size: 1.1em;
+		}
+		nav a:hover {
+			text-decoration: underline;
+		}
+		.container {
+			max-width: 800px;
+			margin: 40px auto;
+			background: #fff;
+			border-radius: 10px;
+			box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+			padding: 30px;
+		}
+		h1 {
+			color: #007acc;
+			margin-top: 0;
+		}
+		.news {
+			margin-top: 30px;
+		}
+		.news h2 {
+			color: #333;
+			font-size: 1.2em;
+			margin-bottom: 10px;
+		}
+		.news-item {
+			margin-bottom: 18px;
+			padding-bottom: 10px;
+			border-bottom: 1px solid #eee;
+		}
+		.footer {
+			text-align: center;
+			color: #888;
+			margin: 40px 0 10px 0;
+			font-size: 0.95em;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>Minecraft Discord server</h1>
+		<p>Server pro všechny poctivé hráče a stavitele z <b>minecore.cz</b></p>
+	</header>
+	<nav>
+		<a href="index.html">Domů</a>
+		<a href="pravidla.html">Pravidla</a>
+	</nav>
+	<div class="container">
+		<h2>O serveru</h2>
+		<p>Vítej na našem Discord serveru zaměřeném na stavby a komunitu hráčů Minecraft serveru <b>minecore.cz</b>! Připoj se, sdílej své stavby, diskutuj a buď součástí naší komunity.</p>
+		<div class="news">
+			<h2>Novinky</h2>
+			<div class="news-item">
+				<b>07/01/2025:</b> Dokončujeme hlavní stavbu na serveru! Přidej se k nám a pomoz s posledními detaily.
+			</div>
+			<div class="news-item">
+				<b>06/19/2025:</b> Přidali jsme nové role pro partnery a sponzory.
+			</div>
+			<div class="news-item">
+				<b>05/10/2025:</b> Proběhl event „Pig Killer“ – děkujeme všem za účast!
+			</div>
+		</div>
+	</div>
+	<div class="footer">
+		&copy; 2025 Minecraft Discord server &ndash; Inspired by minecore.cz
+	</div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+	<meta charset="UTF-8">
+	<title>Pravidla serveru</title>
+	<style>
+		body {
+			background: #e9ecef;
+			font-family: 'Segoe UI', Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+		}
+		header {
+			background: #222;
+			color: #fff;
+			padding: 30px 0 20px 0;
+			text-align: center;
+		}
+		nav {
+			background: #007acc;
+			padding: 10px 0;
+			text-align: center;
+		}
+		nav a {
+			color: #fff;
+			text-decoration: none;
+			margin: 0 20px;
+			font-weight: bold;
+			font-size: 1.1em;
+		}
+		nav a:hover {
+			text-decoration: underline;
+		}
+		.container {
+			max-width: 700px;
+			margin: 40px auto;
+			background: #fff;
+			border-radius: 10px;
+			box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+			padding: 30px;
+			text-align: left;
+		}
+		h1 {
+			color: #007acc;
+			margin-top: 0;
+		}
+		ol {
+			margin-left: 20px;
+		}
+		li {
+			margin-bottom: 18px;
+		}
+		.footer {
+			text-align: center;
+			color: #888;
+			margin: 40px 0 10px 0;
+			font-size: 0.95em;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>Pravidla serveru</h1>
+	</header>
+	<nav>
+		<a href="index.html">Domů</a>
+		<a href="pravidla.html">Pravidla</a>
+	</nav>
+	<div class="container">
+		<ol>
+			<li><b>Bezpečnost a nahlášení problémů:</b> Pokud si všimneš čehokoli, co porušuje naše pravidla nebo ohrožuje tvou bezpečnost, informuj některého ze správců nebo moderátorů. Chceme, aby tento server byl příjemným místem!</li>
+			<li><b>Nevhodný obsah:</b> Netolerujeme žádný obscénní obsah ani obsah s věkovým omezením. Tímto obsahem se rozumí texty, obrázky, odkazy směřující na nahotu, sex, násilí nebo jiný znepokojivý grafický obsah.</li>
+			<li><b>Spam a reklama:</b> Nespamuj a bez výslovného svolení některého ze správců či moderátorů se nevěnuj sebepropagaci (rozesílání pozvánek na server, reklam apod.). Toto omezení platí i při zasílání přímých zpráv ostatním členům.</li>
+			<li><b>Respekt a chování:</b> Ke všem se chovej s respektem a úctou. Vyvaruj se jakéhokoli obtěžování, pronásledování, sexismu, rasizmu, pomluvám a šíření nenávisti. Toto chování nebude tolerováno.</li>
+		</ol>
+	</div>
+	<div class="footer">
+		&copy; 2025 Minecraft Discord server &ndash; Inspired by minecore.cz
+	</div>
+</body>
+</html>
